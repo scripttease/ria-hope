@@ -122,6 +122,11 @@ footer h2 {
   padding-right: 5vw;
 }
 
+#about {
+  padding-left: 5vw;
+  padding-right: 5vw;
+}
+
 .logo {
   display: flex;
   flex-direction: column;

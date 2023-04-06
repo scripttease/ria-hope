@@ -1,8 +1,13 @@
 import { Head } from "$fresh/runtime.ts";
+import Navigation from "../components/Navigation.tsx";
 
 export default function Home() {
   return (
     <>
+      <Navigation
+        headings={["contact", "about", "prices", "therapy", "kink"]}
+        styleModifier="kink"
+      />
       <Head>
         <title>Ria Hope</title>
       </Head>

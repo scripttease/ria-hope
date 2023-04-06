@@ -18,7 +18,7 @@ export default function Navbar(props: NavbarProps) {
         </li>
         {props.headings.map((heading) => (
           <li>
-            <a href={`#${headingId(heading)}`}>
+            <a href={`/${headingId(heading)}`}>
               {heading}
             </a>
           </li>

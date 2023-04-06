@@ -9,7 +9,7 @@ export default function Home() {
       </Head>
       <body class="kink">
         <Navigation
-          headings={["thing1", "thing2"]}
+          headings={["contact", "about", "prices", "therapy", "kink"]}
           styleModifier="kink"
         />
         <main>

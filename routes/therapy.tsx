@@ -26,8 +26,8 @@ export default function Home() {
         <title>Ria Hope Therapy</title>
       </Head>
       <Navigation
-        headings={["work with me", "about", "testimonials", "contact"]}
-        styleModifier={"n"}
+        headings={["contact", "about", "prices", "therapy", "kink"]}
+        styleModifier="kink"
       />
       <main>
         <div class="page-title">

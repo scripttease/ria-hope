@@ -17,4 +17,7 @@ deno run --allow-env --allow-read --allow-net main.ts
 - change remotes to balloonicorn
 - send dalle design to Ria
 - remove vs-code-mac folder, create general notes and shortcuts files in Notes
-- add navigation
+- fix navigation bug in Chrome - IP6 vs 4?
+- collapse nav into a menu button in mobile
+
+
